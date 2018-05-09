@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="map_card_vertical_margin">8dp</dimen>
+    <dimen name="map_card_horizontal_margin">12dp</dimen>
+    <dimen name="padding">5dp</dimen>
+</resources>
